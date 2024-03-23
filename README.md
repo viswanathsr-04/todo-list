@@ -1,4 +1,4 @@
-# ToDo List using ReactJS and Firebase Hosting nad Firestore
+# ToDo List using ReactJS and Firebase Hosting and Firestore
 
 The Main web app is deployed in the below link.
 [Click here](https://todo-list-ec4cb.web.app/)
